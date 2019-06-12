@@ -1,0 +1,6 @@
+owner=287163716410277899
+prefix=$
+game=This Bot by xElite || $play
+stayinchannel=true
+songinstatus=false
+token=NTg4Mjc2ODk1OTc2NzgzODcy.XQCyDA.wM0v6PA2i3FIIHIQY2iVwapaSLQ
